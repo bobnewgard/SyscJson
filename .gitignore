@@ -1,0 +1,11 @@
+*.swp
+*.o
+*.a
+*.so
+test-*
+dep*.mk
+lexer*
+parser*
+*.svg
+doxygen
+Readme.md
