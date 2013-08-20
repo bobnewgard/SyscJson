@@ -215,7 +215,7 @@ Issues are tracked at [github.com/bobnewgard/SyscJson/issues](https://github.com
 
 ## Pull Requests
 
-Pull requests are found at [github.com/bobnewgard/SyscMake/pulls](https://github.com/bobnewgard/SyscMake/pulls)
+Pull requests are found at [github.com/bobnewgard/SyscJson/pulls](https://github.com/bobnewgard/SyscJson/pulls)
 
 ## License
 
