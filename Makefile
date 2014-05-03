@@ -108,7 +108,7 @@ define dox
 	rm -f Readme.md
 	echo "\\mainpage %SyscJson Project" >> Readme.md
 	cat README.md >> Readme.md
-	doxygen doxygen.conf
+	doxygen dox.conf
 endef
 #
 # variables
